@@ -57,7 +57,8 @@ Our approach builds on these methods, employing a powerful deep learning model (
 ---
 
 ## **Research Methodology** 🧠
-### 🎤 **Dataset**
+
+### **Dataset** 🎤
 The dataset used in this study is the [**RespiratoryDatabase@TR**](https://data.mendeley.com/datasets/p9z4h98s6j/1/files/4920eb3e-cecd-47b2-95b0-75b6446a4aad), which contains 12 channels of lung sounds from both healthy individuals and patients with chronic pulmonary diseases. The data also includes chest X-rays, PFT results, and auscultation sounds validated by pulmonologists.
 
 ### **Preprocessing** 🛠️
@@ -72,13 +73,18 @@ Raw lung sound recordings were converted into spectrograms, Mel spectrograms, an
 ---
 
 ## **Proposed System** ⚙️
+
 ### **Model Architecture** 💡
 The heart of our system is **RESNET50**, a cutting-edge deep learning architecture known for its residual learning framework. It excels in recognizing complex patterns, making it ideal for lung sound classification.
 
 We trained the model on the preprocessed dataset and used multi-class classification to predict different COPD severity levels ranging from COPD 0 (low severity) to COPD 4 (high severity).
 
+![ a ](https://github.com/user-attachments/assets/079b3f3a-c52f-4248-8547-4c04faa3aed1)
+
 ### **Performance Evaluation** 📊
 The model was evaluated using various metrics like accuracy, precision, recall, and F1-score. The results were highly promising, demonstrating that our approach is a step forward in accurate COPD diagnosis using lung sounds.
+
+![ice_screenshot_20241129-210830](https://github.com/user-attachments/assets/7430f974-c834-4c97-8e62-85cfe6e82874)
 
 ---
 
