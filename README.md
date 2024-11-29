@@ -14,6 +14,9 @@
   - [Performance Evaluation 📊](#performance-evaluation)
 - [Conclusion 💬](#conclusion)
 - [Future Work 🔮](#future-work)
+- [Repository Information 📂](#repository-information)
+- [Contributing 🤝](#contributing)
+- [License 📜](#license)
 
 ---
 
@@ -88,6 +91,30 @@ The journey doesn’t stop here! Future improvements include:
 - **Mobile Health Integration**: We’re looking into ways to bring this model to mobile devices, enabling real-time diagnosis at your fingertips.
 
 This project has the potential to make a lasting impact in healthcare innovation, and we can’t wait to continue this journey of discovery.
+
+---
+
+## 📂 **Repository Information**
+This repository contains all the necessary files to replicate the COPD severity classification system, including:
+
+- **Data**: Preprocessed and raw lung sound datasets (subject to licensing restrictions).
+- **Code**: Python code for feature extraction, model training, and evaluation.
+- **Model**: Trained model weights for RESNET50.
+
+---
+
+## 🤝 **Contributing**
+We welcome contributions from the community! To contribute, please fork the repository, make your changes, and submit a pull request. We ask that all contributors adhere to the following guidelines:
+
+- Ensure that your code is well-documented and adheres to our code style.
+- Include test cases for any new features or bug fixes.
+- Ensure that your changes do not break existing functionality.
+- Follow best practices for deep learning model training.
+
+---
+
+## 📜 **License**
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
