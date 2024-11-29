@@ -1,5 +1,10 @@
 # COPD Severity Classification using Lung Sound 🩺💡
 
+1. [Papers With Code](https://paperswithcode.com/paper/chronic-obstructive-pulmonary-disease-1)
+2. [IEEE](https://ieeexplore.ieee.org/document/10543344)
+3. [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rgY31NYAAAAJ&citation_for_view=rgY31NYAAAAJ:u-x6o8ySG0sC)
+4. [Research Gate](https://www.researchgate.net/publication/381247754_Chronic_Obstructive_Pulmonary_Disease_Severity_Classification_using_lung_sound)
+
 ## 📋 **Contents**
 - [Abstract 🌍](#abstract-)
 - [Introduction 🚀](#introduction-)
