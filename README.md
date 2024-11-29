@@ -23,7 +23,7 @@
 
 ---
 
-## 🌍 **Abstract**
+## **Abstract** 🌍
 COPD (Chronic Obstructive Pulmonary Disease) is silently affecting millions across the globe, with 251 million cases reported worldwide. Early detection is key to managing this potentially debilitating condition, and lung sound analysis could be the game-changer we need!
 
 In this project, we present an innovative approach to multi-class COPD severity classification using lung sound data. Using RESNET50 and advanced feature extraction techniques such as spectrograms, Mel spectrograms, and chromograms, our deep learning model is trained to predict COPD severity with impressive accuracy.
