@@ -58,7 +58,7 @@ Our approach builds on these methods, employing a powerful deep learning model (
 
 ## **Research Methodology** 🧠
 ### 🎤 **Dataset**
-The dataset used in this study is the **RespiratoryDatabase@TR**, which contains 12 channels of lung sounds from both healthy individuals and patients with chronic pulmonary diseases. The data also includes chest X-rays, PFT results, and auscultation sounds validated by pulmonologists.
+The dataset used in this study is the [**RespiratoryDatabase@TR**](https://data.mendeley.com/datasets/p9z4h98s6j/1/files/4920eb3e-cecd-47b2-95b0-75b6446a4aad), which contains 12 channels of lung sounds from both healthy individuals and patients with chronic pulmonary diseases. The data also includes chest X-rays, PFT results, and auscultation sounds validated by pulmonologists.
 
 ### **Preprocessing** 🛠️
 Each audio recording was carefully segmented into 10-second intervals to ensure consistency across the dataset. Longer recordings were divided into overlapping segments, making sure we captured vital lung sound information while maintaining data integrity.
