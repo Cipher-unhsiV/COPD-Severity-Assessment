@@ -17,6 +17,9 @@
 - [Repository Information 📂](#repository-information)
 - [Contributing 🤝](#contributing)
 - [License 📜](#license)
+- [BibTeX 📚](#bibtex)
+- [Citation 📄](#citation)
+- [RIS 📑](#ris)
 
 ---
 
@@ -115,6 +118,50 @@ We welcome contributions from the community! To contribute, please fork the repo
 
 ## 📜 **License**
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 📚 **BibTeX** 
+
+```BibTeX
+@INPROCEEDINGS{10543344,
+  author={Khanaghavalle, G R and Rahul, G and Senajith, S R and Vishnuvasan, T S and Keerthana, S},
+  booktitle={2024 10th International Conference on Communication and Signal Processing (ICCSP)}, 
+  title={Chronic Obstructive Pulmonary Disease Severity Classification using Lung Sound}, 
+  year={2024},
+  pages={428-432},
+  keywords={Training, Data preprocessing, Lung, Machine learning, Feature extraction, Chronic obstructive pulmonary disease, Spectrogram, COPD, RESNET, Deep Learning},
+  doi={10.1109/ICCSP60870.2024.10543344}
+}
+```
+
+---
+
+## 📄 Citation 
+
+**G. R. Khanaghavalle**, **G. Rahul**, **S. R. Senajith**, **T. S. Vishnuvasan**, and **S. Keerthana**, "Chronic Obstructive Pulmonary Disease Severity Classification using lung sound," *2024 10th International Conference on Communication and Signal Processing (ICCSP)*, Melmaruvathur, India, 2024, pp. 428-432, doi: [10.1109/ICCSP60870.2024.10543344](https://doi.org/10.1109/ICCSP60870.2024.10543344) 📚.
+
+---
+
+## 📑 RIS
+
+```ris
+TY  - CONF
+TI  - Chronic Obstructive Pulmonary Disease Severity Classification using lung sound
+T2  - 2024 10th International Conference on Communication and Signal Processing (ICCSP)
+SP  - 428
+EP  - 432
+AU  - G. R. Khanaghavalle
+AU  - G. Rahul
+AU  - S. R. Senajith
+AU  - T. S. Vishnuvasan
+AU  - S. Keerthana
+PY  - 2024
+DO  - 10.1109/ICCSP60870.2024.10543344
+JO  - 2024 10th International Conference on Communication and Signal Processing (ICCSP)
+SN  - 2836-1873
+Y1  - 12-14 April 2024
+```
 
 ---
 
