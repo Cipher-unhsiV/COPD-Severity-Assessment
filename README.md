@@ -1,3 +1,10 @@
+<div align="center">
+  
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/chronic-obstructive-pulmonary-disease-1/classification-on-respiratorydatabase-tr)](https://paperswithcode.com/sota/classification-on-respiratorydatabase-tr?p=chronic-obstructive-pulmonary-disease-1)
+
+</div>
+
+
 # COPD Severity Classification using Lung Sound 🩺💡
 
 1. [Papers With Code](https://paperswithcode.com/paper/chronic-obstructive-pulmonary-disease-1)
