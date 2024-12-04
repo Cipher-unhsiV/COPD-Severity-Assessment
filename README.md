@@ -45,7 +45,7 @@ Let’s breathe life into early diagnosis and give healthcare professionals a po
 ---
 
 ## **Index Terms** 📑
-```COPD```, ```RESNET```, ```Deep Learning```, ```Lung Sound Analysis```, ```Early Diagnosis```, ```Multi-Class Classification```.
+```COPD```, ```RESNET50```, ```Deep Learning```, ```Lung Sound Analysis```, ```Early Diagnosis```, ```Multi-Class Classification```.
 
 ---
 
